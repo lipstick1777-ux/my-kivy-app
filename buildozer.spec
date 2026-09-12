@@ -1,5 +1,8 @@
 [app]
-android.ndk = 25b 
+
+# (str) Android NDK version
+android.ndk = 25b
+
 # (str) Title of your application
 title = My Application
 
