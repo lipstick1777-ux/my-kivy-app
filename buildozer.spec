@@ -1,5 +1,5 @@
 [app]
-
+android.ndk = 25b 
 # (str) Title of your application
 title = My Application
 
@@ -19,7 +19,7 @@ version = 0.1
 source.include_exts = py,png,jpg,kv,atlas
 
 # (list) Application requirements
-requirements = python3,kivy==2.3.0,kivymd,arabic-reshaper,python-bidi,pillow
+requirements = python3,kivy==2.3.0,kivymd
 
 # (str) Supported orientation
 orientation = portrait
